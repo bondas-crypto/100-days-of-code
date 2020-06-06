@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
+Twitter @BreakerofCodes
+### Day 0: June 6, 2020
+Started over on my 100 days of code journey
+**Today's Progress**: Used VS Code for the first time in weeks and watched lecture for week 1 CS50 edXHarvard. Also went through a tutorial here https://www.datacamp.com/community/tutorials/git-push-pull to re-familiarize myself with using command line to commit to git
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Thoughts:** I really struggled to remember all that I learned a few weeks ago. I need to work every day to become proficient. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** https://github.com/bondas-crypto
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: June 7, 2020
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
